@@ -28,5 +28,5 @@ def remove_strawberry(contacts)
   }
 }
 
-contacts.do 
+contacts.each do 
 end
