@@ -28,5 +28,6 @@ contacts = {
   }
 }
 
-contacts.each do |person, 
+contacts.each do |person, info_hash|
+  binding.pry
 end
